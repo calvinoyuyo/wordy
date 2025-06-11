@@ -1,0 +1,1 @@
+chrome-extension://hnmpcagpplmpfojmgmnngilcnanddlhb/rulesets/scripting/scriptlet/default.prevent-window-open.js

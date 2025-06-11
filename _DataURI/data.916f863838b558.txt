@@ -1,0 +1,1 @@
+chrome-extension://hnmpcagpplmpfojmgmnngilcnanddlhb/rulesets/scripting/scriptlet/default.set-local-storage-item.js
